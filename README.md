@@ -21,4 +21,15 @@ $    cd PassGen /
 $    python3 ./passgen.py
 
 ## As a result
-You will receive a file with the name of the victim.
+You will receive a file with the name of the victim
+## ScreenShots
+1 photo "https://ibb.co/VYgxxhS" 
+
+
+2 photo "https://ibb.co/z4RVmND" 
+
+
+3 photo "https://ibb.co/JyJRnjq" 
+
+
+4 photo "https://ibb.co/JQzbDgJ" 
